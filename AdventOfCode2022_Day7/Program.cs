@@ -1,10 +1,4 @@
-﻿IEnumerable<string> GetInput()
-{
-    var input = File.ReadAllLines(@"input.txt");
-    return input;
-}
-
-var input = GetInput().ToList();
+﻿var input = GetInput().ToList();
 var root = new Directory("/", null, new List<Item>());
 
 PopulateItems(root, input);
@@ -17,6 +11,13 @@ Console.WriteLine($"Total file size to delete: {total}");
 
 var sizeToRemove = Part2(sizes, root);
 Console.WriteLine($"Total file size to remove to have enough space: {sizeToRemove}");
+
+
+IEnumerable<string> GetInput()
+{
+    var readAllLines = File.ReadAllLines(@"input.txt");
+    return readAllLines;
+}
 
 static long Part1(Dictionary<Guid, long> sizes)
 {
