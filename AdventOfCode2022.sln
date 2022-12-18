@@ -26,6 +26,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day12", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day14", "AdventOfCode2022_Day14\AdventOfCode2022_Day14.csproj", "{D147A1C1-FF75-476A-B93B-2D60E85A57F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day15", "AdventOfCode2022_Day15\AdventOfCode2022_Day15.csproj", "{A5BC7ECF-1861-4B1B-8CD7-F6BECCDF9CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day16", "AdventOfCode2022_Day16\AdventOfCode2022_Day16.csproj", "{789FB9C5-765C-4A3D-88F7-8365BFCFF27F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day18", "AdventOfCode2022_Day18\AdventOfCode2022_Day18.csproj", "{3664A31F-750A-45D8-9E11-3A4955AFCFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +90,17 @@ Global
 		{D147A1C1-FF75-476A-B93B-2D60E85A57F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D147A1C1-FF75-476A-B93B-2D60E85A57F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D147A1C1-FF75-476A-B93B-2D60E85A57F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5BC7ECF-1861-4B1B-8CD7-F6BECCDF9CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BC7ECF-1861-4B1B-8CD7-F6BECCDF9CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BC7ECF-1861-4B1B-8CD7-F6BECCDF9CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BC7ECF-1861-4B1B-8CD7-F6BECCDF9CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789FB9C5-765C-4A3D-88F7-8365BFCFF27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789FB9C5-765C-4A3D-88F7-8365BFCFF27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789FB9C5-765C-4A3D-88F7-8365BFCFF27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789FB9C5-765C-4A3D-88F7-8365BFCFF27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3664A31F-750A-45D8-9E11-3A4955AFCFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3664A31F-750A-45D8-9E11-3A4955AFCFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3664A31F-750A-45D8-9E11-3A4955AFCFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3664A31F-750A-45D8-9E11-3A4955AFCFE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
