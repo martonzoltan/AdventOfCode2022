@@ -1,6 +1,6 @@
 ﻿const int decryptionKey = 811589153;
 
-//Part1();
+Part1();
 Part2();
 
 void Part1()
