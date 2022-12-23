@@ -42,7 +42,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day20", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day21", "AdventOfCode2022_Day21\AdventOfCode2022_Day21.csproj", "{9AACE696-E32F-49EA-A302-68898C69FDC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day22", "AdventOfCode2022_Day22\AdventOfCode2022_Day22.csproj", "{BBA6D3B5-883F-4054-9D9F-93B028E9FA23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022_Day23", "AdventOfCode2022_Day23\AdventOfCode2022_Day23.csproj", "{BBA6D3B5-883F-4054-9D9F-93B028E9FA23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
