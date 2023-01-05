@@ -7,4 +7,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ContentWithTargetPath Include="input.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <TargetPath>input.txt</TargetPath>
+      </ContentWithTargetPath>
+    </ItemGroup>
+
 </Project>
